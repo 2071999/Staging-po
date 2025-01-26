@@ -1,0 +1,9 @@
+create a new project using react node express and mongodb where you have to create role based authentication admin and user so when i start the server i will see the Login page with username and password (but when i login as a admin or a user i will see the dashboard but as a admin if i login i wll see one button users data when i click on that button i will the users username and password i can also edit and delete that users data as a admin ) but if i login using users credentilas i will not see the users data button i will only see the dashboard for authentication use jwt token make a folder structure frontend and backend also use tailwind css for make it look good hope you understand 
+
+
+Definition: An ingredient is a single component or raw material used to make a product.
+Definition: A supplement is a finished product designed to provide additional nutrients or health benefits.
+
+
+
+
